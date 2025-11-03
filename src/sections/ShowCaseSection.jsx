@@ -61,13 +61,13 @@ const ShowcaseSection = () => {
                 >
                     <div className="relative">
                         <a
-                            href="https://raftaan-landingpage.netlify.app/"
+                            href="https://www.hammerbidmart.com"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
                             <img
-                                src="/project-3.jpg"
-                                alt="Raftaan Tech"
+                                src="/project-4.png"
+                                alt="HammerBidMart"
                                 className=" rounded-lg"
                             />
                         </a>
@@ -93,7 +93,7 @@ const ShowcaseSection = () => {
                             rel="noopener noreferrer"
                         >
                             <img
-                                src="/project-4.png"
+                                src="/project-1.jpg"
                                 alt="Design Arena"
                                 className="rounded-lg"
                             />
