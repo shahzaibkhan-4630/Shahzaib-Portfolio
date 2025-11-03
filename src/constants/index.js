@@ -93,10 +93,13 @@ const expCards = [
 
   {
     logoPath:"/stacone.jpeg",
-    title:"Frontend Developer (Remote)",
+    title:"MERN Stack Developer (Remote)",
     date:"December 2024 - Present",
     responsibilities: [
-      "Worked on building responsive web interfaces using React.js, Tailwind CSS, and JavaScript, focusing on performance, accessibility, and clean UI. Collaborated with design and backend teams to implement dynamic components, debug cross-browser issues, and improve page load speed. Contributed to reusable component libraries, ensuring consistent styling and scalability across projects."
+      "Engineered responsive and high-performing web applications using React.js, Next.js, Node.js, Express.js, and Tailwind CSS. Integrated RESTful APIs to enable dynamic data exchange and maintain seamless front-end–back-end connectivity.",
+      "Enhanced application performance and load speed by up to 30% through optimized rendering and code refactoring.",
+      "Built and maintained a scalable component library, standardizing UI elements and improving development efficiency across projects.",
+      "Collaborated closely with designers and backend engineers to deliver user-focused, maintainable, and production-ready solutions aligned with business goals."
     ]
   }
 ];
