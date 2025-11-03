@@ -73,7 +73,7 @@ const ShowcaseSection = () => {
                     </div>
                     <div className="mt-4">
                         <h2 className="text-xl md:text-2xl font-semibold text-white">
-                            Design Arena - Creative Services Platform
+                            Design Arena - Creative Agency Portfolio
                         </h2>
                         <p className="text-gray-400 mt-2 text-justify">
                             Developed a modern, responsive digital agency website using React.js and Tailwind CSS, translating UI/UX mockups
