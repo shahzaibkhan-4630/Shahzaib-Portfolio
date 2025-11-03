@@ -65,26 +65,34 @@ const techStackImages = [
     },
     {
         id: 5,
-        imgPath: "/express2.png",
+        imgPath: "/next.png",
     },
     {
         id: 6,
-        imgPath: "/nodejs.png",
+        imgPath: "/express2.png",
     },
     {
         id: 7,
-        imgPath: "/mongo-db.png",
+        imgPath: "/nodejs.png",
     },
     {
         id: 8,
-        imgPath: "/tailwind.png",
+        imgPath: "/mongo-db.png",
     },
     {
         id: 9,
-        imgPath: "/git.png",
+        imgPath: "/tailwind.png",
     },
     {
         id: 10,
+        imgPath: "/git.png",
+    },
+    {
+        id: 11,
+        imgPath: "/wordpress.png",
+    },
+    {
+        id: 12,
         imgPath: "/wordpress.png",
     },
 ];
