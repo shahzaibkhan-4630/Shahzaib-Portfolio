@@ -130,7 +130,7 @@ const ShowcaseSection = () => {
                     </div>
                     <div className="mt-4">
                         <h2 className="text-xl md:text-2xl font-semibold text-white">
-                            Raftaan Tech – Landing Pages
+                            HammerBidMart – Multi-Vendor Auction Platform
                         </h2>
                         <p className="text-gray-400 text-justify mt-2">
                             Built responsive, visually polished landing pages for a creative agency using HTML, CSS, JavaScript, and Bootstrap,

@@ -91,10 +91,6 @@ const techStackImages = [
         id: 11,
         imgPath: "/wordpress.png",
     },
-    {
-        id: 12,
-        imgPath: "/wordpress.png",
-    },
 ];
 
 const expCards = [
