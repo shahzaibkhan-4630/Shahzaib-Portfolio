@@ -54,6 +54,34 @@ const ShowcaseSection = () => {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 app-showcase items-stretch">
+
+                <div
+                    className="bg-[#0E0E10] p-4 rounded-lg shadow-lg"
+                    ref={project3Ref}
+                >
+                    <div className="relative">
+                        <a
+                            href="https://raftaan-landingpage.netlify.app/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <img
+                                src="/project-3.jpg"
+                                alt="Raftaan Tech"
+                                className=" rounded-lg"
+                            />
+                        </a>
+                    </div>
+                    <div className="mt-4">
+                        <h2 className="text-xl md:text-2xl font-semibold text-white">
+                            HammerBidMart – Multi-Vendor Auction Platform
+                        </h2>
+                        <p className="text-gray-400 text-justify mt-2">
+                            A next-generation multi-vendor auction and dropshipping platform built with Next.js, Node.js, Express.js, and MongoDB, featuring real-time bidding through WebSockets and seamless multi-currency payments. Designed a responsive, SEO-optimized interface with Tailwind CSS, secure vendor dashboards, and role-based management to ensure scalability, performance, and an exceptional user experience across all devices.
+                        </p>
+                    </div>
+                </div>
+
                 <div
                     className="bg-[#0E0E10] p-4 rounded-lg shadow-lg"
                     ref={project1Ref}
@@ -65,7 +93,7 @@ const ShowcaseSection = () => {
                             rel="noopener noreferrer"
                         >
                             <img
-                                src="/project-1.jpg"
+                                src="/project-4.png"
                                 alt="Design Arena"
                                 className="rounded-lg"
                             />
@@ -76,8 +104,7 @@ const ShowcaseSection = () => {
                             Design Arena - Creative Agency Portfolio
                         </h2>
                         <p className="text-gray-400 mt-2 text-justify">
-                            Developed a modern, responsive digital agency website using React.js and Tailwind CSS, translating UI/UX mockups
-                            into a high-performance, accessible front end with scalable component-based architecture.
+                            A modern portfolio platform built with React, Tailwind CSS, and Framer Motion to showcase design and branding services for a creative agency. Implemented smooth animations, interactive transitions, and reusable UI components for maintainability while ensuring SEO optimization, fast load performance, and a minimalistic, professional aesthetic focused on client engagement and acquisition.
                         </p>
                     </div>
                 </div>
@@ -111,33 +138,7 @@ const ShowcaseSection = () => {
                     </div>
                 </div>
 
-                <div
-                    className="bg-[#0E0E10] p-4 rounded-lg shadow-lg"
-                    ref={project3Ref}
-                >
-                    <div className="relative">
-                        <a
-                            href="https://raftaan-landingpage.netlify.app/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            <img
-                                src="/project-3.jpg"
-                                alt="Raftaan Tech"
-                                className=" rounded-lg"
-                            />
-                        </a>
-                    </div>
-                    <div className="mt-4">
-                        <h2 className="text-xl md:text-2xl font-semibold text-white">
-                            HammerBidMart – Multi-Vendor Auction Platform
-                        </h2>
-                        <p className="text-gray-400 text-justify mt-2">
-                            Built responsive, visually polished landing pages for a creative agency using HTML, CSS, JavaScript, and Bootstrap,
-                            with pixel-perfect layouts and smooth cross-device performance.
-                        </p>
-                    </div>
-                </div>
+
             </div>
         </section>
     );
