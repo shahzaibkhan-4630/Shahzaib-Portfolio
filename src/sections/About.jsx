@@ -10,7 +10,7 @@ const About = () => {
                 />
                 <div className='mt-10 bg-neutral-900 rounded-2xl p-6 md:p-10 shadow-lg transition-transform'>
                     <p className='text-lg leading-8 text-gray-300 text-justify space-y-6'>
-                        I’m a MERN Stack Developer with a strong focus on building scalable, performance-driven web applications. Currently in my final year of Software Engineering at the University of Karachi, I combine academic insight with hands-on experience to deliver clean, effective digital solutions. I’m currently working as a Front-End Developer at STAC ONE, a remote-based startup, where I contribute to building responsive user interfaces and enhancing UI performance. My core strengths include React.js, Node.js, Express, and MongoDB. I’m passionate about writing efficient, maintainable code and continuously expanding my skill set to create impactful, real-world applications.
+                        Results-driven Web Developer with over 2 years of experience designing and developing responsive, scalable, and user-centric web applications. Proficient in JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, HTML5, CSS3, Tailwind CSS, and RESTful APIs. Skilled in collaborating with cross-functional teams to deliver high-quality, maintainable, and performance-optimized solutions. Dedicated to writing clean code, following best practices, and continuously improving user experience and development efficiency.
                     </p>
                 </div>
             </div>
