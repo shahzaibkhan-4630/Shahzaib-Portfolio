@@ -98,7 +98,7 @@ const expCards = [
   {
     logoPath:"/stacone.jpeg",
     title:"MERN Stack Developer (Remote)",
-    date:"December 2024 - Present",
+    date:"December 2024 - January 2026",
     responsibilities: [
       "Engineered responsive and high-performing web applications using React.js, Next.js, Node.js, Express.js, and Tailwind CSS. Integrated RESTful APIs to enable dynamic data exchange and maintain seamless front-end–back-end connectivity.",
       "Enhanced application performance and load speed by up to 30% through optimized rendering and code refactoring.",
