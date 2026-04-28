@@ -5,7 +5,7 @@ const FeatureCards = () => {
     return (
         <>
             <div className='md:mt-40 mt-20'>
-                <TitleHeader title='What Sets Me Apart' sub='Quality results. Clear updates. On time.'/>
+                <TitleHeader title='What Sets Me Apart' sub='What I bring to every project and team'/>
             </div>
             <div className='w-full padding-x-lg mt-18'>
                 <div className='mx-auto grid-3-cols'>

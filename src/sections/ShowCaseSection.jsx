@@ -53,7 +53,7 @@ const ShowcaseSection = () => {
       <div className="md:mt-40 mt-20">
         <TitleHeader
           title="Featured Projects"
-          sub="Bringing Ideas to Life Through Code"
+          sub="A selection of real projects I've built and shipped"
         />
       </div>
 
