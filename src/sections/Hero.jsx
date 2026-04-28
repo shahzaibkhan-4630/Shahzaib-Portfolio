@@ -40,11 +40,11 @@ const Hero = () => {
                         key={word.id}
                         className="flex items-center md:gap-3 gap-1 pb-2"
                       >
-                        <img
+                        {/* <img
                           src={word.imgPath}
                           alt={word.text}
                           className="xl:siz-12 md:size-10 size-7 md:p-2 p-1 rounded-full bg-white-50"
-                        />
+                        /> */}
                         <span>{word.text}</span>
                       </span>
                     ))}
@@ -52,7 +52,7 @@ const Hero = () => {
                 </span>
               </h1>
               <h1>Web Applications</h1>
-              {/* <h1>that Deliver Results</h1> */}
+              <h1>That Deliver Results</h1>
             </div>
             {/* <p className='text-white-50 md:text-xl relative z-10 pointer-events-none'>Hi, I'm Shahzaib — I
                             build scalable, efficient web solutions.</p> */}

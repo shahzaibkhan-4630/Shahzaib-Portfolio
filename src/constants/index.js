@@ -20,11 +20,11 @@ const navLinks = [
 const words = [
   { id: 1, text: "Scalable", imgPath: "/ideas.svg" },
   { id: 2, text: "Fast", imgPath: "/concepts.svg" },
-  { id: 3, text: "Production-Ready", imgPath: "/designs.svg" },
+  { id: 3, text: "Modern", imgPath: "/designs.svg" },
   { id: 4, text: "Pixel-Perfect", imgPath: "/code.svg" },
   { id: 5, text: "Scalable", imgPath: "/ideas.svg" },
   { id: 6, text: "Fast", imgPath: "/concepts.svg" },
-  { id: 7, text: "Production-Ready", imgPath: "/designs.svg" },
+  { id: 7, text: "Modern", imgPath: "/designs.svg" },
   { id: 8, text: "Pixel-Perfect", imgPath: "/code.svg" },
 ];
 
