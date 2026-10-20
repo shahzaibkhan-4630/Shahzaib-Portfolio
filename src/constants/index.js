@@ -83,18 +83,18 @@ const techStackImages = [
     id: 5,
     imgPath: "/next.png",
   },
-    {
-      id: 6,
-      imgPath: "/express2.png",
-    },
-    {
-      id: 7,
-      imgPath: "/nodejs.png",
-    },
-    {
-      id: 8,
-      imgPath: "/mongo-db.png",
-    },
+  {
+    id: 6,
+    imgPath: "/express2.png",
+  },
+  {
+    id: 7,
+    imgPath: "/nodejs.png",
+  },
+  {
+    id: 8,
+    imgPath: "/mongo-db.png",
+  },
   {
     id: 9,
     imgPath: "/tailwind.png",
@@ -125,29 +125,41 @@ const expCards = [
   {
     logoPath:
       "https://res.cloudinary.com/dn7cdtibf/image/upload/v1777360818/Invexo_Pro_2-removebg-preview_yrxcdv.png",
-    title: "Front-End Developer | Invexo Pro (Self-Founded SaaS)",
-    date: "February 2026 – Present",
+    title: "Founder & Full-Stack Developer | Invexo Pro",
+    date: "March 2026 – Present",
     responsibilities: [
-      "Founded and led the entire frontend development of Invexo Pro (invexopro.com) — a live SaaS POS and inventory management platform for retailers and manufacturers. Built 17 pages across sales, stock purchases, and reporting modules using Next.js, React.js, and shadcn/ui. Architected multi-role dashboards with role-based access control and integrated RESTful APIs across all pages via React Hook Form, Zod, and Axios. Built complex UI components including FBR IRIS invoicing integration and print-ready invoice generation.",
+      "Built and launched Invexo Pro, a multi-tenant SaaS platform designed for Pakistani retailers and manufacturers, combining POS, inventory management, purchasing, reporting, invoicing, and FBR digital invoicing.",
+      "Lead end-to-end product development, from architecture and frontend/backend engineering to deployment and client onboarding.",
+      "Build application interfaces with React.js and Next.js, supported by Node.js, Express.js, MongoDB, and REST APIs.",
+      "Implement tenant-isolated database architecture, authentication, role-based access control, and secure route protection.",
+      "Develop FBR digital invoicing workflows, including token handling, QR generation, scenario testing, and credit notes.",
+      "Manage production deployment and infrastructure while improving the platform based on real business requirements.",
+    ],
+  },
+  {
+    logoPath: "/stacone.jpeg",
+    title: "Frontend Developer | STAC ONE",
+    date: "December 2024 – January 2026 · Indonesia · Remote",
+    responsibilities: [
+      "Delivered responsive web experiences for digital agency projects, translating design requirements into polished, functional interfaces.",
+      "Developed frontend interfaces using React.js and Next.js.",
+      "Built reusable UI components and responsive layouts for different screen sizes.",
+      "Worked with WordPress to implement and refine website interfaces.",
+      "Focused on visual consistency, usability, performance, and maintainable frontend code.",
+      "Delivered web experiences aligned with project requirements and design specifications.",
     ],
   },
   {
     logoPath:
       "https://res.cloudinary.com/dn7cdtibf/image/upload/v1755403664/HBM-Logo_seplxo.webp",
-    title: "Front-End Developer | Hammer Bid Mart",
-    date: "August 2025 – September 2025",
+    title: "Full-Stack Developer | (Hammer Bid Mart)",
+    date: "August 2025 - October 2025 · Karachi Division, Pakistan · Hybrid",
     responsibilities: [
-      "Led the entire frontend of HammerBidMart (hammerbidmart.com) — a multi-vendor e-commerce and auction platform — as sole frontend developer, collaborating with a backend developer to deliver a fully functional production application. Built role-based dashboards for sellers and admins with real-time auction features including live countdown timers and dynamic bid updates using WebSockets. Delivered a complete B2B system with vendor management, product listings, and auction modules ensuring responsive design across all devices.",
-    ],
-  },
-  {
-    logoPath: "/stacone.jpeg",
-    title: "Front-End Developer | STAC ONE",
-    date: "December 2024 - January 2026",
-    responsibilities: [
-      "Built Design Arena (designarena.net), an 11-page responsive creative agency website independently from scratch using React.js and Tailwind CSS, converting Figma designs into a pixel-perfect interface within a one-month deadline.",
-      "Developed Purpose Beyond Play (purposebeyondplay.com), a custom athlete support platform building all pages in WordPress and Elementor and integrating a PayPal payment gateway for donations and transactions.",
-      "Delivered both projects as a sole developer managing the full frontend lifecycle through multiple revision cycles to final deployment.",
+      "Developed a multi-model commerce platform combining B2B e-commerce, online auctions, real-time bidding, vendor management, bulk ordering, and dropshipping workflows.",
+      "Built frontend experiences and interactive application interfaces using Next.js, React.js, Tailwind CSS, and ShadCN.",
+      "Developed backend services and REST APIs using Node.js and Express.js.",
+      "Designed MongoDB data models and application workflows for marketplace and vendor operations.",
+      "Worked across frontend and backend functionality to deliver an integrated commerce experience.",
     ],
   },
 ];
