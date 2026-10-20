@@ -57,8 +57,7 @@ const Hero = () => {
             {/* <p className='text-white-50 md:text-xl relative z-10 pointer-events-none'>Hi, I'm Shahzaib — I
                             build scalable, efficient web solutions.</p> */}
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I'm Shahzaib — a Front-End Developer who builds clean, fast
-              web applications using React.js and Next.js.
+              Hi, I'm Shahzaib Khan — Full-Stack Developer & SaaS Product Builder.
             </p>
             <Button
               className="md:w-80 md:h-16 w-60 h-12"

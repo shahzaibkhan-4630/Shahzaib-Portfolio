@@ -83,18 +83,18 @@ const techStackImages = [
     id: 5,
     imgPath: "/next.png",
   },
-  //   {
-  //     id: 6,
-  //     imgPath: "/express2.png",
-  //   },
-  //   {
-  //     id: 7,
-  //     imgPath: "/nodejs.png",
-  //   },
-  //   {
-  //     id: 8,
-  //     imgPath: "/mongo-db.png",
-  //   },
+    {
+      id: 6,
+      imgPath: "/express2.png",
+    },
+    {
+      id: 7,
+      imgPath: "/nodejs.png",
+    },
+    {
+      id: 8,
+      imgPath: "/mongo-db.png",
+    },
   {
     id: 9,
     imgPath: "/tailwind.png",
